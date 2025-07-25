@@ -28,4 +28,4 @@
 ## 📁 Download Report
 
 ```bash
-📎 [Download the .pbix file](RegionalSalesProject.pbix)
+📎 [📥 Download the Power BI Report (.pbix)](MyPowerBIReport.pbix)
