@@ -24,8 +24,3 @@
 > 📥 However, you can download and explore the `.pbix` file locally.
 
 ---
-
-## 📁 Download Report
-
-```bash
-📎 [📥 Download the Power BI Report (.pbix)](MyPowerBIReport.pbix)
