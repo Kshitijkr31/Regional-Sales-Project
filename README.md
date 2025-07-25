@@ -1,6 +1,7 @@
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=32&pause=1000&center=true&vCenter=true&width=800&lines=📊+Sales+Performance+Dashboard;🚀+Power+BI+Project;📈+Interactive+Insights+%26+Analysis" alt="Typing SVG" />
-</h1>
+</p>
+
 
 ![Power BI](https://img.shields.io/badge/Made%20With-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
